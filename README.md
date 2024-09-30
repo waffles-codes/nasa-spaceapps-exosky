@@ -6,3 +6,7 @@ https://aladin.cds.unistra.fr/AladinLite/doc/tutorials/interactive-finding-chart
 https://www.cosmos.esa.int/web/gaia-users/archive <br/>
 
 3. Draw constellations (between stars)
+
+
+To run locally just add: <br/>
+pip3 install astroquery
