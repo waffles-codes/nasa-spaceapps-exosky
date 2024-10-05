@@ -1,2 +1,4 @@
-from astroquery.gaia import Gaia
-import ssl
+#This is the format of how if we need to install dependenices.
+numpy
+pandas
+requests
