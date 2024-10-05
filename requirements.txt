@@ -1,4 +1,6 @@
 #This is the format of how if we need to install dependenices.
+#Do pip/pip3 install -r requirements.txt
 numpy
 pandas
 requests
+flask
