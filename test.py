@@ -1,4 +1,4 @@
-import ssl
+wimport ssl
 from astroquery.gaia import Gaia
 import astropy.units as u
 from astropy.coordinates import SkyCoord
